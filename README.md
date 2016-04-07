@@ -1,1 +1,1 @@
-Implementation of News System where visitors(without authentication) should be able to view categories and articles, as well as to register and login in the system.
+Implementation of News System where visitors(without authentication) should be able to view categories and articles, as well as to register and login in the system. (This is an exam preparation project for ASP.NET WebForms Exam 2016)
